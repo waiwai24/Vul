@@ -22,6 +22,16 @@ Exploit  漏洞利用，意思是一段对漏洞如何利用的详细说明或�
 
 shell代码，是Payload的一种，由于其建立正向/反向shell而得名。
 
+作用
+
+* 启动shell，进行交互
+* 打开服务器端口等待连接
+* 方向连接端口
+
+生成shellcode
+
+使用pwntools快速生成对应框架的shellcode
+
  
 
 ## 6.段子记忆法
